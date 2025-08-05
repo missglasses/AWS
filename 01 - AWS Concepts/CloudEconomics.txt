@@ -1,0 +1,65 @@
+1. Introduction
+Focus: Financial principles of cloud computing and cost optimization in AWS.
+
+2. What is Cloud Economics?
+Study of cost benefits when moving from on-premises to cloud.
+
+Key advantages:
+
+Reduced IT expenses vs. traditional setups.
+
+Flexible pricing (pay-as-you-go).
+
+Eliminates many fixed costs (hardware, data centers).
+
+3. Fixed vs. Variable Costs
+On-Premises (Fixed Costs)	Cloud (Variable Costs)
+Upfront CapEx (servers, data centers)	Pay-as-you-go (only what you use)
+Ongoing costs (power, cooling, IT staff)	Scales with demand
+Over-provisioning (wasted capacity)	No wasted resources
+4. Bring Your Own License (BYOL)
+Reuse existing licenses (e.g., Microsoft SQL Server, Windows Server) in AWS.
+
+Alternative: AWS includes licenses with some services (simpler management).
+
+Benefit: Avoids sunk costs and leverages prior investments.
+
+5. Right-Sizing
+Adjust compute, storage, and services to match actual demand.
+
+AWS tools: EC2 resizing, Auto Scaling, Cost Explorer.
+
+Result: Avoid overpaying for unused capacity.
+
+6. Automation (Cost Efficiency)
+AWS CloudFormation: Automates infrastructure setup & management.
+
+Benefits:
+
+Reduces manual effort & human error.
+
+Ensures consistent, optimized configurations.
+
+Frees teams for higher-value tasks.
+
+7. Managed Services (Lower Operational Costs)
+AWS handles maintenance, scaling, and patches.
+
+Examples:
+
+Amazon RDS (managed databases).
+
+AWS Lambda (serverless compute).
+
+Amazon S3 (scalable storage).
+
+Advantage: Less operational overhead → focus on core business.
+
+Key Takeaways
+Cloud economics = Cost efficiency (pay only for what you use).
+
+BYOL & right-sizing maximize existing investments.
+
+Automation & managed services reduce operational costs.
+
+Result: Lower TCO (Total Cost of Ownership) vs. on-premises.
