@@ -1,0 +1,72 @@
+1. Introduction
+Framework designed to solve common cloud computing challenges.
+
+2. What is the Well-Architected Framework?
+Helps architects build resilient, scalable, and secure AWS architectures.
+
+Example: A sudden traffic surge without proper architecture can cause downtime, financial loss, and reputational damage.
+
+3. The Six Pillars
+Security – Protects data & systems via strong identity management and threat detection.
+
+Cost Optimization – Avoids unnecessary costs by using the right resources.
+
+Performance Efficiency – Ensures optimal compute resource usage as demands change.
+
+Sustainability – Reduces environmental impact of cloud workloads.
+
+Operational Excellence – Aligns teams with business goals, optimizes operations.
+
+Reliability – Ensures system recovery, dynamic scaling, and issue mitigation.
+
+4. Security
+Focus: Confidentiality, integrity, and availability.
+
+Key practices:
+
+Strong IAM (Identity and Access Management).
+
+Threat detection & mitigation controls.
+
+5. Cost Optimization
+Goal: Maximize value, minimize waste.
+
+Strategies:
+
+Right-sizing resources.
+
+Pay-as-you-go models.
+
+6. Performance Efficiency
+Ensures efficient compute usage even as workloads evolve.
+
+7. Sustainability
+Minimizes environmental impact of cloud operations.
+
+8. Operational Excellence
+Key aspects:
+
+CloudOps transformation – Aligns operations with business goals.
+
+Observability – Monitoring for informed decision-making.
+
+Automation – Reduces errors, ensures consistency.
+
+Frequent small updates – Maintains system reliability.
+
+Failure anticipation – Testing scenarios for better responses.
+
+Managed services – Reduces operational burden.
+
+9. Reliability
+Ensures system recovery & scalability.
+
+Key principles:
+
+Automatic recovery – Detect & resolve issues quickly.
+
+Testing recovery procedures – Simulate failures.
+
+Horizontal scaling – Distribute workloads to minimize failure impact.
+
+Avoid capacity guesswork – Monitor & adjust resources.
