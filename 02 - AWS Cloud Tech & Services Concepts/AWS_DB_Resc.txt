@@ -1,0 +1,16 @@
+DBaas - DB as s service 
+- access db w/o configurign physical infra or installing a SW
+
+Relational DB - organizing data into tables with predef relationships
+  Ex: Amazon RDs - fully managed relational db service
+& Amazon Aurora - relational db service optimized for mySQL and postgreSQL
+
+NoSQL DB - accommodate diverse data models beyond traditional rel. dbs. like JSON and raw docs.
+  Ex : Amazon DynamoDB -serverless nosql anf fully managed w single-digit ms 
+
+Memory-based DBs
+
+Compute-hosted DBs 
+
+
+//to be continued
