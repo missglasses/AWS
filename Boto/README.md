@@ -2,4 +2,4 @@
 
 Boto3 Clients
 
-Buckets
+S3 Buckets
